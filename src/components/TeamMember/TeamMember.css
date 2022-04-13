@@ -92,3 +92,38 @@ footer .stat {
     margin-left: 24px;
   }
 }
+
+.joinButton{
+  font-size: 30px;
+  padding: 10px 10px;
+  background-color: #6699ff; /* Green */
+  border: none;
+  color: white;
+}
+
+
+.ReactModal__Body--open {
+  overflow-y: hidden;
+}
+
+.space40 {
+  margin-top: 20px;
+}
+
+.input-font-size {
+  font-size: 20px;
+}
+
+input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  font-size:20px;
+}
+
+.center {
+  width: 10%;
+  margin: auto;
+  display: block;
+}
